@@ -3,7 +3,7 @@
 ## 总揽
 这时我的一个网页项目，是跟随课程做的
 ```html
-<p>hello wordl</p>
+<p>hello github</p>
 ```
 
 - 第一个
