@@ -19,7 +19,7 @@ angles==1.15.0
 annotated-doc==0.0.5
 annotated-types==0.8.0
 anyio==4.15.1
--e git+ssh://git@github.com/Dbs7156/zero-to-tech.git@a8955275dfbe5c99d4f9a6a2f591486ff262743c#egg=backend
+-e git+ssh://git@github.com/Dbs7156/zero-to-tech.git@c43fbe7b91e8f490a1aad2ef8cbec934c8e09904#egg=backend
 builtin-interfaces==1.2.2
 certifi==2026.7.22
 charset-normalizer==3.5.2
