@@ -20,6 +20,7 @@ export default function InputCard({ onResult }) {
 
         method: "POST",
         headers: { "Content-Type": "application/json" },
+        credentials: "include",            // ← 新增：带上 cookie
         body: JSON.stringify({ text }),
       });
 
